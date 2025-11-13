@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tib-a8v.pages.dev/sitemap.xml
